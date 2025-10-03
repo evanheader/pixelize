@@ -4,7 +4,7 @@ A tiny Python tool that pixelates images using OpenCV. Select an image via a fil
 
 ## Demo
 
-Before (left): `images/cat3.jpg` — After (right): `pixelized_output.png`
+Before (top): `images/cat3.jpg` — After (bottom): `pixelized_output.png`
 
 ![Before](images/cat3.jpg) ![After](pixelized_output.png)
 
